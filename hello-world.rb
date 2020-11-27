@@ -1,3 +1,3 @@
-def hello
-  puts "Hello there!"
+def hello name
+  puts "Hello #{name}!"
 end
